@@ -1,10 +1,8 @@
 package org.facebook;
 
 public class loginpage {
-	private void m1() {
+	public static void main(String[] args) {
+		System.out.println("maven");
 	}
-private void m2() {
-	m1();
-	
-}
+
 }
